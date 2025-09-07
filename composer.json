@@ -1,0 +1,9 @@
+{
+  "name": "movietix/wamp-ticketing",
+  "description": "Movie ticket booking app for WAMP with auth, payments, email, promos, and seat maps",
+  "type": "project",
+  "require": {
+    "stripe/stripe-php": "^17.6",
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
